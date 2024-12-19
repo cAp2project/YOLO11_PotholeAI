@@ -1,3 +1,3 @@
 # potholeAI
-This is just for the project of university.
+This is just for the university project.
 Object_Detection
